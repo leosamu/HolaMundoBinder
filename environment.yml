@@ -1,4 +1,4 @@
-name: MooCUPVX
+name: hola-mundo-upvx
 channels:
   - conda-forge
 dependencies:
