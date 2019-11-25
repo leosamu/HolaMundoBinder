@@ -1,4 +1,4 @@
-name: hola-mundo-upvx
+name: hola-upvx
 channels:
   - conda-forge
 dependencies:
